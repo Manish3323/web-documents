@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "e0bd754851f32ef3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9ffcefc06943190",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Modern web.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f21709f1fc7fba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "808813ebc3fc9945",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9ef59c1f639d9d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9b7966ac0bf804c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93dfd23ccdbfa73d",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a6991a1e35c633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d1c0114c8d9a025",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Modern web.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Modern web.md",
+    "Cloud services.md",
+    "Documentation.md",
+    "Compilers.md",
+    "Bundless architecture.md",
+    "random list.md",
+    "Snowpack.md",
+    "Bundlers.md",
+    "Languages.md",
+    "Frontend frameworks.md"
+  ]
+}
