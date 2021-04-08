@@ -1,3 +1,4 @@
 
-	Type scope
-	Value scope
+
+## why typescript ?
+

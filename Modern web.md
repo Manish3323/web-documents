@@ -87,7 +87,7 @@ Tooling around modern web
 Each section has its own blog. 
 Explaining all of it is out of scope for this write up.wrt5
 
-# Inspiration 
+#
 
 This write up is highly inspired by the philosophy given & work done by the modern-web community to bring out guides, tools & techniques to help UI developers go forward in a right, sensible direction.
 
@@ -96,9 +96,10 @@ Blogs:
 [[Stop learning Frameworks]](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 [[Second guesssing the modern web]](https://macwright.com/2020/05/10/spa-fatigue.html)
 [[Modern Web]](https://modern-web.dev/blog/introducing-modern-web/)
-
+[[vite]](https://vite.js)
 Videos: 
 [[Snowpack]](https://www.youtube.com/results?search_query=snowpack+)
 [[Snowpack 3]](https://www.youtube.com/watch?v=2yVNI1C0gxI)
 [[Svelte]](https://www.youtube.com/watch?v=qSfdtmcZ4d0)
+
 
