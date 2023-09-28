@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "e0bd754851f32ef3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f25240a31ced0ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88f6973bd3bfa252",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f21709f1fc7fba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "808813ebc3fc9945",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9ef59c1f639d9d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "f9b7966ac0bf804c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44ea3770ccd1af8b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.0036334991455
+  },
+  "right": {
+    "id": "93dfd23ccdbfa73d",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a6991a1e35c633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d1c0114c8d9a025",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9cf7b666b985df5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06e628a6266d66d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f15a358843d4450",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "88f6973bd3bfa252",
+  "lastOpenFiles": [
+    "Modern web.md",
+    "Marko.md",
+    "Languages.md",
+    "Frontend frameworks.md",
+    "Documentation.md",
+    "Compilers.md",
+    "Bundless architecture.md",
+    "Bundlers.md",
+    "Background.md",
+    "Frontend libraries.md"
+  ]
+}
